@@ -2,7 +2,11 @@
 *.pyo
 *.so
 *.dll
+
+fastparquet/*.html
 fastparquet/speedups.c
+fastparquet/cencoding.c
+
 .coverage
 .eggs
 cover
@@ -12,3 +16,4 @@ fastparquet.egg-info
 .idea
 .cached
 /.cache
+
